@@ -2,6 +2,6 @@
 2. Nards Paragas (nardsqq)
 3. Archit Kaushik (architkshk)
 4. [Soumya Ranjan Behera](https://github.com/Soumya44)
-5. Prasad Seth (prasadseth)
+5. Prasad Seth (https://github.com/prasadseth)
 6. thenerdsuperuser
 7. John Baltazar (jbaltazar03)
