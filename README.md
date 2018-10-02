@@ -1,6 +1,3 @@
-# Intro-to-Hacktoberfest
-Enjoy Hacktoberfest !
-
 # Introduction to the Annual Hacktoberfest!
 
 **_Hacktoberfest_** is a month-long celebration of open source software run by [DigitalOcean](https://www.digitalocean.com/) in partnership with [GitHub](https://github.com/) and [Twilio](https://www.twilio.com/).
