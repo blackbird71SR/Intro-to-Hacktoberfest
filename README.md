@@ -50,4 +50,5 @@ Also make sure to star the repository.
 1. https://github.com/winuall/startup-quotes
 2. https://github.com/firstcontributions/first-contributions
 3. https://hacktoberfest.digitalocean.com/#projects
-
+4. https://github.com/Omkar-Ajnadkar/Programming-Quotes
+5. https://github.com/Omkar-Ajnadkar/Hello-World
