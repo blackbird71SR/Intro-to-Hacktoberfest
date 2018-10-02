@@ -14,7 +14,6 @@ It's really simple...you have to follow few steps to get into the challenge.
 4. Start hacking before the end of October.
 
 ### How do I track my progress?
-
 Log in with your GitHub account at https://hacktoberfest.digitalocean.com/ to check your progress and stats.
 
 ### Event details
@@ -49,3 +48,6 @@ Also make sure to star the repository.
 ## Open Source repositories on Github to contribute :
 
 1. https://github.com/winuall/startup-quotes
+2. https://github.com/firstcontributions/first-contributions
+3. https://hacktoberfest.digitalocean.com/#projects
+
