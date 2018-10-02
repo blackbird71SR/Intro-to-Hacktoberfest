@@ -10,6 +10,12 @@
 
 Register at https://hacktoberfest.digitalocean.com/ Submit a PR to any public GitHub repository. Quality contributions are encouraged! You can look for open issues labeled "Hacktoberfest" for inspiration.
 
+First time Pulling a Request? 
+https://github.com/firstcontributions/first-contributions
+
+More projects: https://hacktoberfest.digitalocean.com/#projects
+
+
 ## Maintaining a repo?
 
 Create issues labeled or label existing ones “Hacktoberfest” on your GitHub projects to help new contributors know what to work on. Tag any spam or irrelevant PRs with the "invalid" label to disqualify them.
