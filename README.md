@@ -35,3 +35,7 @@ Log in with your GitHub account at https://hacktoberfest.digitalocean.com/ to ch
 - Create a pull request, and wait for Pull Request to get merged.
 
 Also make sure to star the repository.
+
+## Open Source repositories on Github to contribute :
+
+1. https://github.com/winuall/startup-quotes
