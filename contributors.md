@@ -6,3 +6,4 @@
 6. thenerdsuperuser
 7. John Baltazar (jbaltazar03)
 8. Li Jin (sljtheultima)
+9. [Kshitiz Sharma](https://github.com/itskshitizsh)
