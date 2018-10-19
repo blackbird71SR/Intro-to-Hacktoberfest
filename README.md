@@ -29,7 +29,7 @@ When it comes to open source Hacktoberfest labeled projects, You will find a hug
 
 __Get Started and enjoy open source hacking! :tada:__
 
-## How to Contribute to this rpository
+## How to Contribute to this repository
 
 ### Instructions
 
